@@ -31,8 +31,8 @@ bing_verify:
 links:
   - title: Publications
     url: /publications/
-  - title: Others
-    url: /others/
+  #- title: Others
+  #  url: /others/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    Europe/Zurich
