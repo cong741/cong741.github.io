@@ -22,6 +22,7 @@ image: banner1.png
 <li>	    
 <b>Others</b>:  Programming Contest
 </li>
+<br>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Honors and Awards</h3> <br>
 <li>	    
@@ -33,22 +34,11 @@ ACM-ICPC Asia Qingdao Regional Contest, Golden Medal (2016)
 <li>	    
 National Scholarship (2016)
 </li>
+<br>
 
-<ul style="margin-left:0px;">
-
-<br>	
-
-<li> 
-<b>Reviewer/External Reviewer/Sub Reviewer:</b>:
-	<ul>
-	<li> ICDCS'20.
-	</li>
-	</ul>
+<h3 style="margin-bottom:-8px;padding-top:20px;">Reviewer/External Reviewer/Sub Reviewer:</h3> <br>
+<ul>
+<li> ICDCS'20.
 </li>
-<br>
-
 </ul>
-
-<br>
-<br>
 <br>
