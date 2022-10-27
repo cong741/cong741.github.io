@@ -7,8 +7,8 @@ image: banner1.png
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3> <br>
 
 <p align="justify">I am currently a last-year Ph.D. student at National University of Singapore (NUS). Previously, I obtained my bachelor's degree in Information Security from University of Electronic Science and Technology of China (UESTC). </p>
-<br />
-
+<br>
+<br>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3> <br>
 <p align="justify">Recently, my interests focus on blockchain and graph theory.
@@ -23,6 +23,7 @@ image: banner1.png
 <b>Others</b>:  Programming Contest
 </li>
 <br>
+<br>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Honors and Awards</h3> <br>
 <li>	    
@@ -35,10 +36,12 @@ ACM-ICPC Asia Qingdao Regional Contest, Golden Medal (2016)
 National Scholarship (2016)
 </li>
 <br>
+<br>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Reviewer/External Reviewer/Sub Reviewer:</h3> <br>
 <ul>
 <li> ICDCS'20.
 </li>
 </ul>
+<br>
 <br>
