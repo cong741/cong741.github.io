@@ -6,7 +6,7 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3> <br>
 
-<p align="justify">I am currently a Ph.D. student </p>
+<p align="justify">I am currently a last-year Ph.D. student at National University of Singapore (NUS). Previously, I obtained my bachelor's degree in Information Security from University of Electronic Science and Technology of China (UESTC). </p>
 <br />
 
 
@@ -21,6 +21,17 @@ image: banner1.png
 </li>
 <li>	    
 <b>Others</b>:  Programming Contest
+</li>
+
+<h3 style="margin-bottom:-8px;padding-top:20px;">Honors and Awards</h3> <br>
+<li>	    
+ACM-ICPC Asia Hong Kong Regional Contest, Golden Medal (2016)
+</li>
+<li>	    
+ACM-ICPC Asia Qingdao Regional Contest, Golden Medal (2016)
+</li>
+<li>	    
+National Scholarship (2016)
 </li>
 
 <br>
