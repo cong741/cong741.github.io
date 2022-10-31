@@ -6,13 +6,10 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 
-<p align="justify">I am currently a last-year Ph.D. student at National University of Singapore (NUS), advised by <a href="https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ" target="_blank"> Chee Yeow Meng </a> and <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang </a>. Previously, I received my B.E. degree in Information Security from <a href="https://en.uestc.edu.cn/" target="_blank"> University of Electronic Science and Technology of China (UESTC) </a>. </p>
-<br>
+<p align="justify">I am currently a last-year Ph.D. student at National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by <a href="https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ" target="_blank"> Chee Yeow Meng </a> and <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang </a>. Previously, I received my B.E. degree in Information Security from  University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
 <br>
 
-<h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3>
-<p align="justify">Recently, my interests focus on blockchain and graph theory.
-</p>
+<p align="justify">Recently, my research interests lie in</p>
 <li>	    
 <b>Blockchain</b>:  Consensus Mechanisms, Incentive Mechanisms, System Design, Cryptographic Fundamentals
 </li>
