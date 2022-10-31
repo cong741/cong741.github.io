@@ -10,6 +10,7 @@ image: banner1.png
 <br>
 
 <p align="justify">Recently, my research interests lie in</p>
+<ul>
 <li>	    
 <b>Blockchain</b>:  Consensus Mechanisms, Incentive Mechanisms, System Design, Cryptographic Fundamentals
 </li>
@@ -19,10 +20,12 @@ image: banner1.png
 <li>	    
 <b>Others</b>:  Programming Contest
 </li>
+</ul>
 <br>
 <br>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Honors and Awards</h3>
+<br>
 <li>	    
 ACM-ICPC Asia Hong Kong Regional Contest, Golden Medal (2016)
 </li>
@@ -36,6 +39,7 @@ National Scholarship (2016)
 <br>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Reviewer/External Reviewer/Sub Reviewer:</h3>
+<br>
 <li> ICDCS'20.
 </li>
 <br>
