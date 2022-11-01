@@ -16,7 +16,7 @@ comments: false
 <p>
 <b>Noisy Interactive Graph Search,</b>
 <br> <b>Qianhao Cong</b>, Jing Tang*, Kai Han, Yuming Huang, Lei Chen, and Yeow Meng Chee.<br>
-<i>Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> <b>(KDD)</b>, 2022. <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539267"> <font color="#8F959A" target="_blank"><b>[Paper]</b> </font></a>
+<i>Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> <b>(KDD)</b>, 2022. <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539267" target="_blank"> <font color="#8F959A"><b>[Paper]</b> </font></a>
 </p>	    
 </li>
 
@@ -24,7 +24,7 @@ comments: false
 <p>
 <b>Cost-Effective Algorithms for Average-Case Interactive Graph Search,</b>
 <br> <b>Qianhao Cong</b>, Jing Tang*, Yuming Huang, Lei Chen, and Yeow Meng Chee.<br>
-<i>Proceedings of the IEEE International Conference on Data Engineering</i> <b>(ICDE)</b>, 2022. <br><a href="https://doi.org/10.1109/ICDE53745.2022.00091"> <font color="#8F959A" target="_blank"><b>[Paper]</b> </font></a>
+<i>Proceedings of the IEEE International Conference on Data Engineering</i> <b>(ICDE)</b>, 2022. <br><a href="https://doi.org/10.1109/ICDE53745.2022.00091" target="_blank"> <font color="#8F959A"><b>[Paper]</b> </font></a>
 </p>	    
 </li>
 
@@ -32,7 +32,7 @@ comments: false
 <p>
 <b>Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives,</b>
 <br> Yuming Huang, Jing Tang*, <b>Qianhao Cong</b>, Andrew Lim, and Jianliang Xu.<br>
-<i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i> <b>(SIGMOD)</b>, 2022. <br><a href="https://dl.acm.org/doi/10.1145/3448016.3457285"> <font color="#8F959A" target="_blank"><b>[Paper]</b> </font></a>
+<i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i> <b>(SIGMOD)</b>, 2022. <br><a href="https://dl.acm.org/doi/10.1145/3448016.3457285" target="_blank"> <font color="#8F959A"><b>[Paper]</b> </font></a>
 </p>	    
 </li>
 
