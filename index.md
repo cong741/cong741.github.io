@@ -6,10 +6,10 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 
-<p align="justify">I am currently a last-year Ph.D. student at National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by <a href="https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ" target="_blank"> Chee Yeow Meng </a> and <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang </a>. Previously, I received my B.E. degree in Information Security from  University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
-<br>
+<p align="justify">I am currently a fourth-year Ph.D. student in  at National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by Prof. <a href="https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ" target="_blank"> Chee Yeow Meng </a> and Prof. <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang </a>. Previously, I received my B.E. degree in Information Security from University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
 
-<p align="justify">Recently, my research interests lie in</p>
+<br>
+<p align="justify">Recently, my research interests lie in
 <ul>
 <li>	    
 Blockchain:  Consensus and Incentive Mechanisms, Cryptographic Fundamentals, Blockchain System Design
@@ -21,11 +21,10 @@ Graph Theory and Algorithms:  Interactive Graph Search, Routing
 Others:  Programming Contest (ICPC)
 </li>
 </ul>
-<br>
-<br>
+</p>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Honors and Awards</h3>
-<br>
+<ul>
 <li>	    
 ACM-ICPC Asia Hong Kong Regional Contest, Golden Medal (2016)
 </li>
@@ -35,12 +34,15 @@ ACM-ICPC Asia Qingdao Regional Contest, Golden Medal (2016)
 <li>	    
 National Scholarship (2016)
 </li>
+</ul>
 <br>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Reviewer/External Reviewer/Sub Reviewer:</h3>
 <br>
+<ul>
 <li> ICDCS'20.
 </li>
+</ul>
 <br>
 <br>
 
