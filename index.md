@@ -6,7 +6,7 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 
-<p align="justify">I am currently a fourth-year Ph.D. student in  at National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by Prof. <a href="https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ" target="_blank"> Chee Yeow Meng </a> and Prof. <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang </a>. Previously, I received my B.E. degree in Information Security from University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
+<p align="justify">I am currently a fourth-year Ph.D. student at the National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by Prof. <a href="https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ" target="_blank"> Chee Yeow Meng </a> and Prof. <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang </a>. Previously, I received my B.E. degree in Information Security from the University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
 
 <br>
 <p align="justify">Recently, my research interests lie in
