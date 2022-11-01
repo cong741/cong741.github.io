@@ -58,9 +58,9 @@ National Scholarship (2016)
 </li>
 </ul>
 
-<h3 style="margin-bottom:-8px;padding-top:20px;">Reviewer/External Reviewer/Sub Reviewer:</h3>
+<h3 style="margin-bottom:-8px;padding-top:20px;">Professional Activities:</h3>
 <ul>
-<li> ICDCS'20.
+<li> External Reviewer: ICDCS'20.
 </li>
 </ul>
 <br>
