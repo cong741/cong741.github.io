@@ -60,7 +60,6 @@ National Scholarship (2016)
 <br>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Reviewer/External Reviewer/Sub Reviewer:</h3>
-<br>
 <ul>
 <li> ICDCS'20.
 </li>
