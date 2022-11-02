@@ -32,7 +32,7 @@ comments: false
 <p>
 <b>Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives,</b>
 <br> Yuming Huang, Jing Tang*, <b>Qianhao Cong</b>, Andrew Lim, and Jianliang Xu.<br>
-<i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i> <b>(SIGMOD)</b>, 2022. <br><a href="https://dl.acm.org/doi/10.1145/3448016.3457285" target="_blank"> <font color="#8F959A"><b>[Paper]</b> </font></a>
+<i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i> <b>(SIGMOD)</b>, 2021. <br><a href="https://dl.acm.org/doi/10.1145/3448016.3457285" target="_blank"> <font color="#8F959A"><b>[Paper]</b> </font></a>
 </p>	    
 </li>
 
