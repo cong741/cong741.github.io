@@ -12,13 +12,13 @@ image: banner1.png
 <p align="justify">Recently, my research interests lie in </p>
 <ul>
 <li>	    
-Blockchain:  Consensus and Incentive Mechanisms, Cryptographic Fundamentals, Blockchain System Design
+Blockchain:  Consensus Mechanisms, Incentive Mechanisms, Cryptograph, Blockchain System Design
 </li>
 <li>	    
-Graph Theory and Algorithms:  Interactive Graph Search, Routing
+Graph Theory and Algorithms:  Interactive Graph Search, Routing Problems
 </li>
 <li>	    
-Others:  Programming Contest (ICPC)
+Others: Programming Contest (e.g., ACM-ICPC)
 </li>
 </ul>
 
@@ -60,7 +60,7 @@ National Scholarship (2016)
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Professional Activities:</h3>
 <ul>
-<li> External Reviewer: ICDCS'20.
+<li> External Reviewer: AAAI'22, TKDE'21, ICDCS'20, DASFAA'20.
 </li>
 </ul>
 <br>
