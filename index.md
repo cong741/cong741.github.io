@@ -12,10 +12,10 @@ image: banner1.png
 <p align="justify">Recently, my research interests lie in </p>
 <ul>
 <li>	    
-Blockchain:  Consensus Mechanisms, Incentive Mechanisms, Cryptograph, Blockchain System Design
+Blockchain: Consensus Mechanisms, Incentive Mechanisms, Cryptograph, System Design
 </li>
 <li>	    
-Graph Theory and Algorithms:  Interactive Graph Search, Routing Problems
+Graph Theory and Algorithms: Interactive Graph Search, Routing Problems
 </li>
 <li>	    
 Others: Programming Contest (e.g., ACM-ICPC)
