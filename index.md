@@ -12,13 +12,13 @@ image: banner1.png
 <p align="justify">Recently, my research interests lie in </p>
 <ul>
 <li>	    
+Algorithm Design: Graph Theory and Algorithms (e.g., Interactive Graph Search), Algorithms in Crowdsourcing, Routing Problems
+</li>
+<li>	    
 Blockchain: Consensus Mechanisms, Incentive Mechanisms, Cryptograph, System Design
 </li>
 <li>	    
-Graph Theory and Algorithms: Interactive Graph Search, Routing Problems
-</li>
-<li>	    
-Others: Algorithm Design in Crowdsourcing, Programming Contest (e.g., ACM-ICPC)
+Others: Programming Contest (e.g., ACM-ICPC)
 </li>
 </ul>
 
