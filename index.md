@@ -11,23 +11,23 @@ image: banner1.png
 <br>
 <p align="justify">Recently, my research interests lie in </p>
 <ul>
-<li>	    
+<li align="justify">	    
 Algorithm Design: Graph Theory and Algorithms (e.g., Interactive Graph Search), Algorithms in Crowdsourcing, Routing Problems
 </li>
-<li>	    
+<li align="justify">	    
 Blockchain: Consensus Mechanisms, Incentive Mechanisms, Cryptograph, System Design
 </li>
-<li>	    
+<li align="justify">	    
 Others: Programming Contest (e.g., ACM-ICPC)
 </li>
 </ul>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Education</h3>
 <ul>
-<li>
+<li align="justify">
 Ph.D. in Industrial Systems Engineering, National University of Singapore, 2018 - 2023
 </li>
-<li>
+<li align="justify">
 B.E. in Information Security, University of Electronic Science and Technology of China, 2014 - 2018
 </li>
 </ul>
