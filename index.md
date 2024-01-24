@@ -6,7 +6,7 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 
-<p align="justify">I am currently a fourth-year Ph.D. student at the National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by Prof. <a href="https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ" target="_blank"> Chee Yeow Meng </a> and Prof. <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang</a>. Previously, I received my B.E. degree in Information Security from the University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
+<p align="justify">I am currently a blockchain research at Matrixport. Previously, I was a Ph.D. student at the National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by Prof. <a href="https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ" target="_blank"> Chee Yeow Meng </a> and Prof. <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang</a>. Before that, I received my B.E. degree in Information Security from the University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
 
 <br>
 <p align="justify">Recently, my research interests lie in </p>
@@ -18,14 +18,14 @@ Blockchain: Consensus Mechanisms, Incentive Mechanisms, Cryptograph, System Desi
 Graph Theory and Algorithms: Interactive Graph Search, Routing Problems
 </li>
 <li>	    
-Others: Programming Contest (e.g., ACM-ICPC)
+Others: Algorithm Design in Crowdsourcing, Programming Contest (e.g., ACM-ICPC)
 </li>
 </ul>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Education</h3>
 <ul>
 <li>
-Ph.D. in Industrial Systems Engineering, National University of Singapore, 2018 - present
+Ph.D. in Industrial Systems Engineering, National University of Singapore, 2018 - 2023
 </li>
 <li>
 B.E. in Information Security, University of Electronic Science and Technology of China, 2014 - 2018
@@ -34,6 +34,12 @@ B.E. in Information Security, University of Electronic Science and Technology of
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3>
 <ul>
+<li>
+Jun. 2023: Received my PhD degree from NUS.
+</li>
+<li>
+Mar. 2023: Successfully passed my PhD defense.
+</li>
 <li>
 May 2022: One paper was accepted by KDD 2022.
 </li>
