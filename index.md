@@ -6,7 +6,7 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 
-<p align="justify">I am currently a blockchain research at <a href="https://www.matrixport.com/">Matrixport</a>. Previously, I was a PhD student at the National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by Prof. <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang</a>, Prof. <a href="https://ymchee66.github.io/home/" target="_blank"> Chee Yeow Meng </a>, and Prof. <a href="https://www.limandrew.org/" target="_blank"> Andrew Lim</a>. Before that, I received my B.E. degree in Information Security from the University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
+<p align="justify">I am currently a blockchain researcher at <a href="https://www.matrixport.com/">Matrixport</a>. Previously, I was a PhD student at the National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by Prof. <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang</a>, Prof. <a href="https://ymchee66.github.io/home/" target="_blank"> Chee Yeow Meng </a>, and Prof. <a href="https://www.limandrew.org/" target="_blank"> Andrew Lim</a>. Before that, I received my B.E. degree in Information Security from the University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
 
 <br>
 <p align="justify">Recently, my research interests lie in </p>
