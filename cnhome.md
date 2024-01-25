@@ -12,7 +12,7 @@ description: "Cong Qianhao's website"
 <br>
 <br>
 <br>
-<p align="justify">近期研究兴趣:</p>
+近期研究兴趣:
 <ul>
 <li align="justify">	    
 算法设计: 图论及其相关算法, 众包中的算法设计
