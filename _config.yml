@@ -16,7 +16,7 @@ owner:
   email:          CongQianhao@outlook.com
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: PolluxCG
+  #twitter: PolluxCG
   linkedin: congqianhao
   google_scholar: BoyWviYAAAAJ
   #github: cong741
@@ -36,6 +36,10 @@ links:
     url: /publications/
   #- title: Others
   #  url: /others/
+
+cnlinks:
+  - title: 主页
+    url: /zh-CN/home
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    Europe/Zurich

@@ -1,5 +1,7 @@
 ---
 layout: home
+permalink: /
+title: homepage 
 description: "Cong Qianhao's website"
 tags: [homepage]
 image: banner1.png
