@@ -1,8 +1,9 @@
 ---
 layout: home
-description: "Cong Qianhao's website"
+permalink: /zh-CN/
+#title: homepage 
 tags: [homepage]
-image: banner1.png
+description: "Cong Qianhao's website"
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 

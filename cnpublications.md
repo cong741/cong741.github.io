@@ -1,10 +1,8 @@
 ---
 layout: publications
-permalink: /publications/
-title: Publications 
+permalink: /zh-CN/publications/
+title: 论文发表 
 tags: [publications]
-modified: 8-7-2014
-comments: false
 ---
 
 <h4 style="margin-bottom:0px;padding-top:20px;">Selected Papers</h4>
