@@ -12,6 +12,7 @@ description: "Cong Qianhao's website"
 
 <br>
 <br>
+<p>
 近期研究兴趣:
 <ul>
 <li align="justify">	    
@@ -24,6 +25,7 @@ description: "Cong Qianhao's website"
 其他：程序设计竞赛 (例如，ACM-ICPC)
 </li>
 </ul>
+</p>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">教育经历</h3>
 <ul>
