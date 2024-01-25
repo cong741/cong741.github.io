@@ -44,13 +44,13 @@ description: "Cong Qianhao's website"
 2023.03: 通过博士论文答辩
 </li>
 <li>
-2022.05: 一篇论文被 KDD 2022 (CCF-A) 接受.
+2022.05: 一篇论文被 KDD 2022 (CCF-A) 接受
 </li>
 <li>
-2021.11: 一篇论文被 ICDE 2022 (CCF-A) 接受.
+2021.11: 一篇论文被 ICDE 2022 (CCF-A) 接受
 </li>
 <li>
-2021.05: 一篇论文被 SIGMOD 2021 (CCF-A) 接受.
+2021.05: 一篇论文被 SIGMOD 2021 (CCF-A) 接受
 </li>
 </ul>
 
