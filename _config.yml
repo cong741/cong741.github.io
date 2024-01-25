@@ -35,13 +35,13 @@ links:
   - title: Publications
     url: /publications/
   - title: 中文
-    url: /zh-CN/homepage/
+    url: /zh-CN/
   #- title: Others
   #  url: /others/
 
 cnlinks:
   - title: 主页
-    url: /zh-CN/homepage/
+    url: /zh-CN/
   - title: 论文发表
     url: /zh-CN/publications/
   - title: 英文
