@@ -15,10 +15,10 @@ description: "Cong Qianhao's website"
 近期研究兴趣:
 <ul>
 <li align="justify">	    
-算法设计：图论及其相关算法, 众包中的算法设计
+算法设计：图论及其相关算法设计，众包中的算法设计
 </li>
 <li align="justify">	    
-区块链：共识机制与激励机制的设计以及分析, 密码学, 区块链系统设计
+区块链：共识机制与激励机制的设计以及分析， 密码学， 区块链系统设计
 </li>
 <li align="justify">	    
 其他：程序设计竞赛 (例如，ACM-ICPC)
@@ -69,7 +69,7 @@ description: "Cong Qianhao's website"
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">学术活动:</h3>
 <ul>
-<li> 外部审稿人: AAAI'22, TKDE'21, ICDCS'20, DASFAA'20.
+<li> 外部审稿人: AAAI'22， TKDE'21， ICDCS'20， DASFAA'20.
 </li>
 </ul>
 <br>
