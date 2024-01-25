@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: /
-title: homepage 
+permalink: /homepage/
+#title: homepage 
 description: "Cong Qianhao's website"
 tags: [homepage]
-image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 
