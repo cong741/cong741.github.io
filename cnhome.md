@@ -15,7 +15,7 @@ description: "Cong Qianhao's website"
 <p align="justify">近期研究兴趣:</p>
 <ul>
 <li align="justify">	    
-算法设计: 图论及其相关算法, 众包中的算法设计, 车辆路径规划
+算法设计: 图论及其相关算法, 众包中的算法设计
 </li>
 <li align="justify">	    
 区块链: 共识机制与激励机制的设计以及分析, 密码学, 区块链系统设计

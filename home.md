@@ -13,7 +13,7 @@ description: "Cong Qianhao's website"
 <p align="justify">Recently, my research interests lie in </p>
 <ul>
 <li align="justify">	    
-Algorithm Design: Graph Theory and Algorithms, Algorithms in Crowdsourcing, Routing Problems
+Algorithm Design: Graph Theory and Algorithms, Algorithms in Crowdsourcing
 </li>
 <li align="justify">	    
 Blockchain: Consensus Mechanisms, Incentive Mechanisms, Cryptograph, System Design
