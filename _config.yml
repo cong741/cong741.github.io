@@ -34,12 +34,18 @@ links:
     url: /
   - title: Publications
     url: /publications/
+  - title: 中文
+    url: /zh-CN/homepage/
   #- title: Others
   #  url: /others/
 
 cnlinks:
   - title: 主页
-    url: /zh-CN/home
+    url: /zh-CN/homepage/
+  - title: 论文发表
+    url: /zh-CN/publications/
+  - title: 英文
+    url: /
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    Europe/Zurich
