@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: 
 #title: homepage 
 tags: [homepage]
 description: "Cong Qianhao's website"

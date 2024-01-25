@@ -1,6 +1,6 @@
 ---
 layout: publications
-permalink: /publications/
+permalink: /publications
 title: Publications 
 tags: [publications]
 ---

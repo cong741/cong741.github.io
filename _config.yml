@@ -33,17 +33,17 @@ links:
   - title: Home
     url: /
   - title: Publications
-    url: /publications/
+    url: /publications
   - title: 中文
-    url: /zh-CN/
+    url: /zh-CN
   #- title: Others
   #  url: /others/
 
 cnlinks:
   - title: 主页
-    url: /zh-CN/
+    url: /zh-CN
   - title: 论文发表
-    url: /zh-CN/publications/
+    url: /zh-CN/publications
   - title: 英文
     url: /
 

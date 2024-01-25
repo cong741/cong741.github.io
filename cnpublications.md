@@ -1,6 +1,6 @@
 ---
 layout: publications
-permalink: /zh-CN/publications/
+permalink: /zh-CN/publications
 title: 论文发表 
 tags: [publications]
 ---
