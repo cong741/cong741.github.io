@@ -13,13 +13,13 @@ description: "Cong Qianhao's website"
 近期研究兴趣:
 <ul>
 <li align="justify">	    
-算法设计: 图论及其相关算法, 众包中的算法设计
+算法设计：图论及其相关算法, 众包中的算法设计
 </li>
 <li align="justify">	    
-区块链: 共识机制与激励机制的设计以及分析, 密码学, 区块链系统设计
+区块链：共识机制与激励机制的设计以及分析, 密码学, 区块链系统设计
 </li>
 <li align="justify">	    
-其他: 程序设计竞赛 (例如，ACM-ICPC)
+其他：程序设计竞赛 (例如，ACM-ICPC)
 </li>
 </ul>
 
@@ -36,19 +36,19 @@ description: "Cong Qianhao's website"
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3>
 <ul>
 <li>
-2023.06: 正式取得博士学位
+2023.06：正式取得博士学位
 </li>
 <li>
-2023.03: 通过博士论文答辩
+2023.03：通过博士论文答辩
 </li>
 <li>
-2022.05: 一篇论文被 KDD 2022 (CCF-A) 接受
+2022.05：一篇论文被 KDD 2022 (CCF-A) 接受
 </li>
 <li>
-2021.11: 一篇论文被 ICDE 2022 (CCF-A) 接受
+2021.11：一篇论文被 ICDE 2022 (CCF-A) 接受
 </li>
 <li>
-2021.05: 一篇论文被 SIGMOD 2021 (CCF-A) 接受
+2021.05：一篇论文被 SIGMOD 2021 (CCF-A) 接受
 </li>
 </ul>
 
