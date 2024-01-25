@@ -1,9 +1,9 @@
 ---
 layout: home
-permalink: /homepage/
+permalink: /
 #title: homepage 
-description: "Cong Qianhao's website"
 tags: [homepage]
+description: "Cong Qianhao's website"
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 
