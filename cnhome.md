@@ -5,69 +5,69 @@ permalink: /zh-CN
 tags: [homepage]
 description: "Cong Qianhao's website"
 ---
-<h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
+<h3 style="margin-bottom:0px;padding-top:20px;">个人简介</h3>
 
-<p align="justify">I am currently a blockchain researcher at <a href="https://www.matrixport.com/">Matrixport</a>. Previously, I was a PhD student at the National University of Singapore <a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>, advised by Prof. <a href="https://sites.google.com/view/jtang" target="_blank"> Jing Tang (唐靖) </a>, Prof. <a href="https://ymchee66.github.io/home/" target="_blank"> Chee Yeow Meng (李耀明) </a>, and Prof. <a href="https://www.limandrew.org/" target="_blank"> Andrew Lim (林良才) </a>. Before that, I received my B.E. degree in Information Security from the University of Electronic Science and Technology of China <a href="https://en.uestc.edu.cn/" target="_blank">(UESTC)</a>. </p>
+<p align="justify">我于2023年毕业从新加坡国立大学<a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>毕业。 博士期间的导师是<a href="https://sites.google.com/view/jtang" target="_blank"> 唐靖 </a> 教授，<a href="https://ymchee66.github.io/home/" target="_blank"> 李耀明 (Chee Yeow Meng) </a> 教授，以及 <a href="https://www.limandrew.org/" target="_blank"> 林良才 (Andrew Lim) </a> 教授。我本科毕业于<a href="https://en.uestc.edu.cn/" target="_blank"> 电子科技大学 (UESTC) </a>信息安全专业。
 
 <br>
-<p align="justify">Recently, my research interests lie in </p>
+<p align="justify">近期研究兴趣 </p>
 <ul>
 <li align="justify">	    
-Algorithm Design: Graph Theory and Algorithms, Algorithms in Crowdsourcing, Routing Problems
+算法设计: 图论及其相关算法, 众包中的算法设计, 车辆路径规划
 </li>
 <li align="justify">	    
-Blockchain: Consensus Mechanisms, Incentive Mechanisms, Cryptograph, System Design
+区块链: 共识机制与激励机制的设计以及分析, 密码学, 区块链系统设计
 </li>
 <li align="justify">	    
-Others: Programming Contest (e.g., ACM-ICPC)
+其他: 程序设计竞赛 (例如，ACM-ICPC)
 </li>
 </ul>
 
-<h3 style="margin-bottom:-8px;padding-top:20px;">Education</h3>
+<h3 style="margin-bottom:-8px;padding-top:20px;">教育经历</h3>
 <ul>
 <li align="justify">
-Ph.D. in Industrial Systems Engineering, National University of Singapore, 2018 - 2023
+新加坡国立大学，工业系统工程与设计专业，博士，2018 — 2023
 </li>
 <li align="justify">
-B.E. in Information Security, University of Electronic Science and Technology of China, 2014 - 2018
+电子科技大学，信息安全专业，2014 — 2018
 </li>
 </ul>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3>
 <ul>
 <li>
-Jun. 2023: Received my PhD degree from NUS.
+2023.06: 正式取得博士学位
 </li>
 <li>
-Mar. 2023: Successfully passed my PhD defense.
+2023.03: 通过博士论文答辩
 </li>
 <li>
-May 2022: One paper was accepted by KDD 2022.
+2022.05: 一篇论文被 KDD 2022 (CCF-A) 接受.
 </li>
 <li>
-Nov. 2021: One paper was accepted by ICDE 2022.
+2021.11: 一篇论文被 ICDE 2022 (CCF-A) 接受.
 </li>
 <li>
-Mar. 2021: One paper was accepted by SIGMOD 2021.
+2021.05: 一篇论文被 SIGMOD 2021 (CCF-A) 接受.
 </li>
 </ul>
 
-<h3 style="margin-bottom:-8px;padding-top:20px;">Honors and Awards</h3>
+<h3 style="margin-bottom:-8px;padding-top:20px;">获奖经历</h3>
 <ul>
 <li>	    
-ACM-ICPC Asia Hong Kong Regional Contest, Golden Medal (2016)
+2016年ACM-ICPC 亚洲区域赛（香港站）金牌
 </li>
 <li>	    
-ACM-ICPC Asia Qingdao Regional Contest, Golden Medal (2016)
+2016年ACM-ICPC 亚洲区域赛（青岛站）金牌
 </li>
 <li>	    
-National Scholarship (2016)
+2016年教育部国家奖学金
 </li>
 </ul>
 
-<h3 style="margin-bottom:-8px;padding-top:20px;">Professional Activities:</h3>
+<h3 style="margin-bottom:-8px;padding-top:20px;">学术活动:</h3>
 <ul>
-<li> External Reviewer: AAAI'22, TKDE'21, ICDCS'20, DASFAA'20.
+<li> 外部审稿人: AAAI'22, TKDE'21, ICDCS'20, DASFAA'20.
 </li>
 </ul>
 <br>
