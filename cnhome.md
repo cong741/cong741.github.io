@@ -11,9 +11,7 @@ description: "Cong Qianhao's website"
 </p>
 
 <br>
-<br>
-<p>
-近期研究兴趣:
+<p>近期研究兴趣:</p>
 <ul>
 <li align="justify">	    
 算法设计：图论及其相关算法设计，众包中的算法设计
@@ -25,7 +23,6 @@ description: "Cong Qianhao's website"
 其他：程序设计竞赛 (例如，ACM-ICPC)
 </li>
 </ul>
-</p>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">教育经历</h3>
 <ul>
