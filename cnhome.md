@@ -10,7 +10,9 @@ description: "Cong Qianhao's website"
 <p align="justify">我于2023年毕业从新加坡国立大学<a href="https://www.nus.edu.sg/" target="_blank">(NUS)</a>毕业。 博士期间的导师是<a href="https://sites.google.com/view/jtang" target="_blank"> 唐靖 </a> 教授，<a href="https://ymchee66.github.io/home/" target="_blank"> 李耀明 (Chee Yeow Meng) </a> 教授，以及 <a href="https://www.limandrew.org/" target="_blank"> 林良才 (Andrew Lim) </a> 教授。我本科毕业于<a href="https://en.uestc.edu.cn/" target="_blank"> 电子科技大学 (UESTC) </a>信息安全专业。
 
 <br>
-<p align="justify">近期研究兴趣 </p>
+<br>
+<br>
+<p align="justify">近期研究兴趣:</p>
 <ul>
 <li align="justify">	    
 算法设计: 图论及其相关算法, 众包中的算法设计, 车辆路径规划
