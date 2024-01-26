@@ -14,7 +14,7 @@ tags: [publications]
 <p>
 <b>噪声环境下的交互式图搜索算法,</b>
 <br> <b>从乾昊</b>，唐靖*，韩恺，黄禹铭，陈雷，李耀明<br>
-<i>Proceedings of the 28th ACM <b>SIGKDD</b> Conference on Knowledge Discovery and Data Mining</i> <b>(CCF-A)</b>, 2022. <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539267" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
+2022 ACM SIGKDD <b>(CCF-A)</b>, . <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539267" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
 </p>	    
 </li>
 
@@ -22,7 +22,7 @@ tags: [publications]
 <p>
 <b>低成本的互式图搜索算法,</b>
 <br> <b>从乾昊</b>，唐靖*，黄禹铭，陈雷，李耀明<br>
-<i>Proceedings of the IEEE <b>ICDE</b> International Conference on Data Engineering</i> <b>(CCF-A)</b>, 2022. <br><a href="https://doi.org/10.1109/ICDE53745.2022.00091" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
+IEEE ICDE 2022 <b>(CCF-A)</b>, 2022. <br><a href="https://doi.org/10.1109/ICDE53745.2022.00091" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
 </p>	    
 </li>
 
@@ -30,7 +30,7 @@ tags: [publications]
 <p>
 <b>富人会变得更富吗？ 区块链激励的公平性分析,</b>
 <br> 黄禹铭，唐靖*，<b>从乾昊</b>，林良才，徐建良<br>
-<i> ACM SIGMOD 2021</i> <b>(CCF-A)</b> <a href="https://dl.acm.org/doi/10.1145/3448016.3457285" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
+ACM SIGMOD 2021 <b>(CCF-A)</b> <a href="https://dl.acm.org/doi/10.1145/3448016.3457285" target="_blank"> <font color="#8F959A"><br><b>[论文网站]</b> </font></a>
 </p>	    
 </li>
 
