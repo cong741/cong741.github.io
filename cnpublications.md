@@ -14,7 +14,7 @@ tags: [publications]
 <p>
 <b>噪声环境下的交互式图搜索算法,</b>
 <br> <b>从乾昊</b>，唐靖*，韩恺，黄禹铭，陈雷，李耀明<br>
-2022 ACM SIGKDD <b>(CCF-A)</b>, . <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539267" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
+ACM SIGKDD 2022 <b>(CCF-A)</b>, . <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539267" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
 </p>	    
 </li>
 
