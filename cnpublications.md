@@ -30,7 +30,7 @@ tags: [publications]
 <p>
 <b>富人会变得更富吗？ 区块链激励的公平性分析,</b>
 <br> 黄禹铭，唐靖*，<b>从乾昊</b>，林良才，徐建良<br>
-<i>Proceedings of the ACM <b>SIGMOD</b> International Conference on Management of Data</i> <b>(CCF-A)</b>, 2021. <br><a href="https://dl.acm.org/doi/10.1145/3448016.3457285" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
+<i> ACM SIGMOD 2021</i> <b>(CCF-A)</b> <a href="https://dl.acm.org/doi/10.1145/3448016.3457285" target="_blank"> <font color="#8F959A"><b>[论文网站]</b> </font></a>
 </p>	    
 </li>
 

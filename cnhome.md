@@ -34,7 +34,7 @@ description: "Cong Qianhao's website"
 </li>
 </ul>
 
-<h3 style="margin-bottom:-8px;padding-top:20px;">News</h3>
+<h3 style="margin-bottom:-8px;padding-top:20px;">近期动态</h3>
 <ul>
 <li>
 2023.06：正式取得博士学位
